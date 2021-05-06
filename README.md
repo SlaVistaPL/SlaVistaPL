@@ -1,4 +1,5 @@
-### Hi there 👋
+### Witam na moim profilu GitHub!
+Właściwie to nie wiem, co tu napisać.
 
 <!--
 **SlaVistaPL/SlaVistaPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
