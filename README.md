@@ -1,5 +1,7 @@
 ### Witam na moim profilu GitHub!
-Właściwie to nie wiem, co tu napisać.
+- 🔭 Obecnie pracuję nad AmpersandBotem
+- 📫 Kontakt: Discord - SlaVistaPL#0956, Telegram - [kliknij tutaj](t.me/slavistapl)
+- ⚡ Fun fact: oprócz programowania tworzę również muzykę.
 
 <!--
 **SlaVistaPL/SlaVistaPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
