@@ -1,7 +1,5 @@
 ### Witam na moim profilu na GitHubie!
-- 🔭 Obecnie pracuję nad AmpersandBotem
-- 🌱 Uczę się Vue.js i Typescripta
-- 📫 Kontakt: Discord - SlaVistaPL#0956, Telegram - [kliknij tutaj](https://t.me/slavistapl)
+- 📫 Kontakt: Discord - SlaVistaPL#0752, Telegram - [kliknij tutaj](https://t.me/slavistapl)
 
 ### Coś o sobie
 Jestem frontend developerem. Strony piszę głównie z użyciem Material Bootstrap 5, ale tak jak wcześniej wspomniałem - uczę się Vue.js.
