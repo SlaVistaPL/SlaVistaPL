@@ -1,11 +1,6 @@
 ### Witam na moim profilu na GitHubie!
 - 📫 Kontakt: Discord - SlaVistaPL#0752, Telegram - [kliknij tutaj](https://t.me/slavistapl)
 
-### Coś o sobie
-Jestem frontend developerem. Strony piszę głównie z użyciem Material Bootstrap 5, ale tak jak wcześniej wspomniałem - uczę się Vue.js.
-Popularność nie jest moim głównym celem. Większość projektów napisałem celem rozwijania swojej pasji - niektóre ich repozytoria są publiczne i dostępne na licencji open-source.
-Jeżeli Cię to zainteresowało, możesz zaobserwować ten profil. To jest już wystarczająca motywacja do dalszego działania.
-
 <!--
 **SlaVistaPL/SlaVistaPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
