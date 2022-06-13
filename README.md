@@ -3,6 +3,8 @@
 
 ⚡ | Interested? Go pick one of repos, test the source code & make your own improved version! I support the FOSS projects, because in my opinion every beginning developer should have something to pick when starting a programming adventure!
 
+🌱 | I am currently learning Laravel (a backend PHP framework) to move to fullstack development in the late 2022 or early 2023!
+
 <!--
 **SlaVistaPL/SlaVistaPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
